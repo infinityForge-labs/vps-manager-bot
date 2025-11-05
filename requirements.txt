@@ -1,0 +1,13 @@
+# Discord Bot Requirements
+discord.py>=2.3.2
+aiohttp>=3.9.0
+aiofiles>=23.2.1
+
+# System Monitoring
+psutil>=5.9.6
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Database (SQLite comes with Python)
+# No additional package needed for SQLite3
