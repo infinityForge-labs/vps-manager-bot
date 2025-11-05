@@ -1,4 +1,4 @@
-# 🚀 HOPINGBOYZ VPS Manager Bot
+# 🚀 Joy VPS Manager Bot
 
 Professional Discord bot for managing Virtual Private Servers (VPS) using QEMU/KVM with async operations.
 
